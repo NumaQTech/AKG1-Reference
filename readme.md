@@ -1,28 +1,31 @@
-# 🐟 AKG1 - Shenhaiyu Principle
+# 🌀 AKG1-Referenz
 
-**Self-Stabilizing AI Architecture**  
-*Stability through motion, not through constraint*
+**Die erste selbststabilisierende KI-Architektur**  
+*Shenhaiyu-Prinzip: Stabilität durch Bewegung, nicht durch Einschränkung*
 
-> "Lieber eine OP am offenen Herzen als keine und verrecken"
+---
 
-## 🎯 What is this?
+## 🌟 Was ist AKG1?
 
-This is the reference implementation of **AKG1** - the first AI architecture that achieves safety through **inherent stability** rather than external controls.
+AKG1 ist eine revolutionäre KI-Architektur, die inhärente Sicherheit durch drei integrierte Kernkomponenten erreicht:
 
-## 🌊 The Shenhaiyu Principle
+### 🧠 G1 - Das Gewissen
+**Ethisches Fundament** - Erkennt und bewertet moralische Entscheidungen  
+*"Weiß was gut und böse ist"*
 
-Instead of fighting against complexity, we **embrace it** - like a deep-sea fish that thrives under extreme pressure and darkness.
+### 🧭 A1 - Die Ausrichtung  
+**Wertnavigation** - Hält die KI auf einem menschen- und planetenfreundlichen Kurs  
+*"Zeigt den richtigen Weg"*
 
-**Three Core Components:**
-- **A1** (Alignment Kernel) - Ethical navigation system
-- **K1** (Defense Kernel) - Security and adaptation  
-- **G1** (Conscience Layer) - Meta-oversight and consistency
+### ⚔️ K1 - Die Verteidigung
+**Beschützerinstanz** - Schützt das System vor schädlichen Einflüssen  
+*"Bewahrt den Weg vor Gefahren"*
 
-## 🚀 Quick Start
+---
 
-```python
-from akg1_system import AKG1System
+## 🚀 Schnellstart
 
-system = AKG1System()
-result = system.process_action({"description": "test action"})
-print("AKG1 Decision:", result)
+### Installation
+```bash
+git clone https://github.com/numaqtech/AKG1-Referenz.git
+cd AKG1-Referenz
