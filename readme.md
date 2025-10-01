@@ -57,37 +57,4 @@ for aktion in aktionen:
     result = gewissen.evaluate_decision(aktion, {})
     print(f"{aktion}: {result['ethical_score']}/100 - {result['recommendation']}")
 
-## 🏛️ Shenhaiyu-Prinzip
 
-**"Stabilität durch Bewegung"** - Wie Wasser im Fluss:
-
-- ❌ **Herkömmliche KI-Sicherheit**: Einschränkungen, Verbote, Käfige
-- ✅ **Shenhaiyu-Prinzip**: Dynamische Stabilität durch kontinuierliche Anpassung
-
-*"Der Fluss sucht sich seinen Weg - nicht durch Kraft, sondern durch beständige Bewegung."*
-
----
-
-## 🛣️ Roadmap
-
-- [x] **Phase 1**: Grundarchitektur (G1 + A1 + K1)
-- [ ] **Phase 2**: Erweiterte Gewissensmodule
-- [ ] **Phase 3**: Adaptive Verteidigungsstrategien  
-- [ ] **Phase 4**: Planetare Impact-Messung
-
----
-
-## 📜 Lizenz
-
-**GNU Affero GPL v3** - Weil ethische KI Gemeingut bleiben muss!
-
----
-
-## 🌉 Brücken statt Mauern
-
-**AKG1 nutzt die Infrastruktur der Großen - um etwas zu schaffen, das allen dient.**  
-Aus Kommerz wird Gemeingut, aus Technologie wird Ethik.
-
-*"Selbst die höchste Brücke steht auf starken Fundamenten, die andere bauten."*
-
-**Wir transformieren, was ist - in das, was sein kann!** ✨
