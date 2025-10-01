@@ -1,23 +1,28 @@
 # Kommerzielle Lizenz für AKG1
 
-## Einnahmen-Verwendung:
-- **50% der Lizenzeinnahmen** fließen in ökologische und soziale Projekte
-- **Projektauswahl** erfolgt ausschließlich durch NumaQTech
-- **Transparenz:** Jährlicher öffentlicher Report über Mittelverwendung
-- **Ausschluss:** Keine Förderung von Unternehmen mit negativer Umweltbilanz
+## Lizenzbedingungen für Unternehmen:
 
-## Unsere Schwerpunkte:
-- Trinkwasser-Projekte in unterversorgten Regionen
-- Regenerative Landwirtschaft
-- Ökologische Bildung
-- Gemeinwohlorientierte Technologien
+### Preismodelle: - Verhandlungsbasis - 
+🏢 **Enterprise:** 199.999.999€/Jahr - Vollständige Nutzungsrechte
+🚀 **Startup:** 499.999€/Jahr - Bei < 10 Mitarbeitern  
+🏛️ **Public Sector:** 1.999.999€/Jahr - Für Behörden
 
-## Projekte unter unserer Kontrolle:
+### Enthaltene Leistungen:
+- Vollständige Nutzungsrechte an AKG1
+- Technischer Support
+- Updates und Sicherheitspatches
+- Rechtssicherheit
 
-Die Hälfte aller Einnahmen fließt in u.a. Wasser Projekte, die:
-1. **Von uns ausgewählt und genehmigt** werden
-2. **Gemeinden direkt zugutekommen** 
-3. **Ökologisch nachhaltig** sind
-4. **Transparent verwaltet** werden
+### Besondere Bedingungen:
+- 50% der Lizenzgebühren für Projekte
+- Projektauswahl erfolgt durch NumaQTech
+- Transparenzberichte über Mittelverwendung
+- Keine Weitergabe des Quellcodes
+
+### Kontakt für kommerzielle Lizenzen:
+📧 kontakt@numaq.org
+🌐 https://numaq.org
+
+"Technologie die dem Leben dient - nicht dem Profit"
 
 Kontakt: [anjawiroth@gmail.com]
