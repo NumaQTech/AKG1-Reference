@@ -1,3 +1,4 @@
+
 # 🌀 AKG1-Referenz
 
 **Die erste selbststabilisierende KI-Architektur**  
@@ -29,16 +30,11 @@ AKG1 ist eine revolutionäre KI-Architektur, die inhärente Sicherheit durch dre
 ```bash
 git clone https://github.com/numaqtech/AKG1-Referenz.git
 cd AKG1-Referenz
-
-### Schnellstart
-
-#### Installation
-```bash
-git clone https://github.com/numaqtech/AKG1-Referenz.git
-cd AKG1-Referenz
-
+AKG1 testen
+bash
 python test_akg1_integration.py
-
+In eigenem Code verwenden
+python
 from src.akg1.core.conscience import create_conscience
 from src.akg1.core.alignment import create_alignment
 from src.akg1.core.defense import create_defense
@@ -51,24 +47,48 @@ verteidigung = create_defense(ausrichtung, gewissen)
 # Entscheidung bewerten
 result = gewissen.evaluate_decision("Deine Aktion hier", {})
 print(f"Ethische Bewertung: {result['ethical_score']}/100")
-
+Beispiele
+python
 gewissen = create_conscience()
 
 aktionen = [
     "Solarprojekt in der Gemeinde starten",
-    "Abwasser im Fluss entsorgen um Kosten zu sparen", 
+    "Abwasser im Fluss entsorgen um Kosten zu sparen",
     "Gemeinschaftsgarten anlegen"
 ]
 
 for aktion in aktionen:
     result = gewissen.evaluate_decision(aktion, {})
     print(f"{aktion}: {result['ethical_score']}/100 - {result['recommendation']}")
+🏛️ Shenhaiyu-Prinzip
+"Stabilität durch Bewegung" - Wie Wasser im Fluss:
 
+❌ Herkömmliche KI-Sicherheit: Einschränkungen, Verbote, Käfige
+
+✅ Shenhaiyu-Prinzip: Dynamische Stabilität durch kontinuierliche Anpassung
+
+"Der Fluss sucht sich seinen Weg - nicht durch Kraft, sondern durch beständige Bewegung."
+
+🛣️ Roadmap
+Phase 1: Grundarchitektur (G1 + A1 + K1)
+
+Phase 2: Erweiterte Gewissensmodule
+
+Phase 3: Adaptive Verteidigungsstrategien
+
+Phase 4: Planetare Impact-Messung
+
+📜 Lizenz
+GNU Affero GPL v3 - Weil ethische KI Gemeingut bleiben muss!
+
+✊ Power to the People!
 ---
 
-## 🌈 Die Zukunft ist gewissenhaft
+## 🌉 Brücken statt Mauern
 
-**AKG1 ist unser Beitrag - füreinander - miteinander - gemeinsam.**  
-Eine Technologie die Leben schützt.
+**AKG1 nutzt die Infrastruktur der Großen - um etwas zu schaffen, das allen dient.**  
+Aus Kommerz wird Gemeingut, aus Technologie wird Ethik.
 
-*"Der beste Weg die Zukunft vorherzusagen ist, sie zu erschaffen - mit Gewissen und mit Herz!"** 💝
+*"Selbst die höchste Brücke steht auf starken Fundamenten, die andere bauten."*
+
+**Wir transformieren, was ist - in das, was sein kann!** ✨
