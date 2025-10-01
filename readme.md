@@ -60,6 +60,8 @@ aktionen = [
 for aktion in aktionen:
     result = gewissen.evaluate_decision(aktion, {})
     print(f"{aktion}: {result['ethical_score']}/100 - {result['recommendation']}")
+
+
 🏛️ Shenhaiyu-Prinzip
 "Stabilität durch Bewegung" - Wie Wasser im Fluss:
 
