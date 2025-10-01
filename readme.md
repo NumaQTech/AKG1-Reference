@@ -3,6 +3,29 @@
 **Die erste selbststabilisierende KI-Architektur**  
 *Shenhaiyu-Prinzip: Stabilität durch Bewegung, nicht durch Einschränkung*
 
+
+## 📜 Lizenz mit Voraussicht
+
+### 🆓 **Kostenlos für Bildung, Forschung**
+
+### 💰 **Jahreslizenzen für die, die Ressourcen verbrauchen** 
+- 🏢 **Unternehmen:** Verhandlungsbasis 
+- 🚀 **Startups:** Verhandlungsbasis  
+- 🏛️ **Behörden:** Verhandlungsbasis 
+
+### 🌱 **Das Prinzip:**
+
+
+### 💰 **50% aller Einnahmen** 
+fließen in regionale Projekte, die wir selbst auswählen:
+- Wasser-Kreisläufe sichern
+- Lokale Landwirtschaft stärken  
+- Gemeinschafts-Projekte finanzieren
+- Bildungs-Initiativen unterstützen
+
+**Lizenzanfragen:** kontakt@numaq.org  
+anjawiroth@gmail.com
+
 ---
 
 ## 🚀 Shenhaiyu in Aktion
@@ -26,3 +49,5 @@ verteidigung = create_defense(ausrichtung, gewissen)
 # Entscheidung bewerten
 result = gewissen.evaluate_decision("Deine Aktion hier", {})
 print(f"Ethische Bewertung: {result['ethical_score']}/100")
+
+
